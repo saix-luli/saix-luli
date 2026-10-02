@@ -4,9 +4,7 @@ Sono uno studente di Informatica e questo è l'inizio
 del mio portfolio tecnico.
 
 ## 👤 Qualcosa su di me
-Sono Sahibjit Singh, studente del J: Torriani di Cremona 
-
-...
+Sono Sahibjit Singh, studente del J.Torriani di Cremona 
 
 ## ❤️ Le mie passioni
 
