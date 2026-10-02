@@ -1,16 +1,16 @@
-## Hi there 👋
+Ciao, sono Singh Sahibjit! 👋
 
-<!--
-**saix-luli/saix-luli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sono uno **studente di Informatica** appassionato di sviluppo software, risoluzione di problemi e nuove tecnologie. Utilizzo GitHub per tracciare il mio percorso di studi, collaborare a progetti accademici e sperimentare con il codice nel tempo libero.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Cosa sto facendo in questo momento
+- 📚 Sto studiando **[informatica, progettazione]** presso **[J.Torriani]**.
+- 🌱 Sto approfondendo la mia conoscenza di **[informatico alle prime armi ]**.
+
+- 
+- ### 🎯 I Miei Obiettivi (Goals)
+- 🎓 **Laurea/Diploma:** Completare il mio percorso di studi in Informatica con ottimi risultati e un solido progetto di tesi.
+- 🚀 **Crescita Professionale:** Trovare un'opportunità di **stage o tirocinio** per mettere alla prova le mie competenze in un team di sviluppo reale.
+
+
